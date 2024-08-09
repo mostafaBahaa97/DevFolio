@@ -62,7 +62,7 @@ ul.nested-drop-down{
 /* end navbar */
 /* start header */
 header{
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/8696af96-c25b-4d6c-8893-8cec2e84466b.jfif);
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -209,7 +209,6 @@ span{
     font-size: .9375rem;
     font-family: "Roboto", sans-serif;
     transition: all 0.1s;
-
 }
 .card h3{
     white-space: unset;
@@ -217,8 +216,6 @@ span{
 .card:hover i{
     border: 10px #ffffffa8 solid;
     background-color: rgb(0,120,255) ;
-
-
 }
 /* end services */
 /* start numbers */
